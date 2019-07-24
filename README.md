@@ -4,20 +4,9 @@
 
 ## 本地运行
 
-由于该项目是纯静态项目，因此无法通过 `lean up` 本地运行。
-不过，你可以使用任何 http 本地服务器查看效果。
-
-例如，假定系统中已预装 Python 3：
-
 ```sh
-python3 -m http.server
+lean up
 ```
-
-如果需要自动重新加载功能，可以试下 [live-server]。
-
-[live-server]: https://github.com/tapio/live-server
-
-很多 IDE 或编辑器也提供类似功能。
 
 ## 部署到云引擎
 

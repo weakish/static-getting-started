@@ -1,0 +1,3 @@
+[submodule "rhymedict"]
+	path = rhymedict
+	url = https://github.com/weakish/rhymedict.git
